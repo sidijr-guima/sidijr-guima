@@ -24,7 +24,7 @@ Seja bem-vindo ao meu perfil do GitHub. Sou um **Desenvolvedor Front-End** focad
 - 💻 Atualmente focado no aprendizado e desenvolvimento de projetos com **HTML5, CSS3 e JavaScript (ES6+)**.
 - 🛠️ Construindo uma base sólida em lógica de programação, semântica web e design responsivo.
 - 🎯 Objetivo: Criar experiências web incríveis e evoluir constantemente na carreira de tecnologia.
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seu-usuario) | [E-mail](mailto:sidijr@hotmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/sidival-iran-guimaraes-jr/) | [E-mail](mailto:sidijr@hotmail.com)
 
 ---
 
