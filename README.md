@@ -72,8 +72,10 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
 ---
 
 ## 📊 Estatísticas do GitHub
-
+<!--
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=gotham" />
 </p>
+-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidijr-guima)](https://git.io/streak-stats)
