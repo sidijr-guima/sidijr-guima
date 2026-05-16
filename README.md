@@ -54,7 +54,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS</p>
       <p align="center">
         <a href="https://github.com/sidijr-guima/CRIADOR-DE-CODIGOS---FINAL.git">💻 Repositório</a> | 
-        <a href="LINK_DO_PROJETO_ONLINE">🌐 Deploy (Ver Online)</a>
+        <a href="https://sidijr-guima.github.io/CRIADOR-DE-CODIGOS---FINAL/">🌐 Deploy (Ver Online)</a>
       </p>
     </td>
     <td width="50%">
