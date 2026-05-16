@@ -24,7 +24,7 @@ Seja bem-vindo ao meu perfil do GitHub. Sou um **Desenvolvedor Front-End** focad
 - 💻 Atualmente focado no aprendizado e desenvolvimento de projetos com **HTML5, CSS3 e JavaScript (ES6+)**.
 - 🛠️ Construindo uma base sólida em lógica de programação, semântica web e design responsivo.
 - 🎯 Objetivo: Criar experiências web incríveis e evoluir constantemente na carreira de tecnologia.
-- 📫 Como me encontrar: [Seu Link do LinkedIn](https://linkedin.com/in/seu-usuario) | [Seu E-mail](mailto:seu-email@email.com)
+- 📫 Como me encontrar: [Seu Link do LinkedIn](https://linkedin.com/in/seu-usuario) | [E-mail](mailto:sidijr@hotmail.com)
 
 ---
 
@@ -53,7 +53,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
       <p align="center">Uma breve descrição do projeto (ex: Uma landing page moderna e responsiva para um produto fictício).</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS</p>
       <p align="center">
-        <a href="LINK_DO_REPOSITORIO">💻 Repositório</a> | 
+        <a href="https://github.com/sidijr-guima/CRIADOR-DE-CODIGOS---FINAL.git">💻 Repositório</a> | 
         <a href="LINK_DO_PROJETO_ONLINE">🌐 Deploy (Ver Online)</a>
       </p>
     </td>
