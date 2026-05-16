@@ -49,8 +49,8 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
-      <p align="center">Uma breve descrição do projeto (ex: Uma landing page moderna e responsiva para um produto fictício).</p>
+      <h3 align="center">CRIADOR DE CÓDIGOS</h3>
+      <p align="center">este projeto visa criar códigos a partir de uma solicitação do usuário. Mostra o código e o preview do que foi solicitado.</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS</p>
       <p align="center">
         <a href="https://github.com/sidijr-guima/CRIADOR-DE-CODIGOS---FINAL.git">💻 Repositório</a> | 
