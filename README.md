@@ -72,7 +72,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
       <p align="center">
         <a href="https://https://github.com/sidijr-guima/COMPRAS-FACEIS.git">💻 Repositório</a> | 
-        <a href="https://github.com/sidijr-guima/COMPRAS-FACEIS.git">🌐 Deploy (Ver Online)</a>
+        <a href="https://sidijr-guima.github.io/COMPRAS-FACEIS/">🌐 Deploy (Ver Online)</a>
        </p>
     </td>
   </tr>
