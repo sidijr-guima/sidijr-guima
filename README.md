@@ -58,13 +58,13 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 2</h3>
-      <p align="center">Uma breve descrição do projeto (ex: Aplicação de lista de tarefas com manipulação de DOM e armazenamento local).</p>
+      <h3 align="center">Wide coverage</h3>
+      <p align="center">Projeto de treinamento para HTML e CSS</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
       <p align="center">
-        <a href="LINK_DO_REPOSITORIO">💻 Repositório</a> | 
-        <a href="LINK_DO_PROJETO_ONLINE">🌐 Deploy (Ver Online)</a>
-      </p>
+        <a href="https://github.com/sidijr-guima/Wide-coverage.git">💻 Repositório</a> | 
+        <a href="https://sidijr-guima.github.io/Wide-coverage/">🌐 Deploy (Ver Online)</a>
+       </p>
     </td>
   </tr>
 </table>
