@@ -67,12 +67,12 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
        </p>
     </td>
     <td width="33%">
-      <h3 align="center">Wide coverage</h3>
+      <h3 align="center">COMPRAS FÁCEIS</h3>
       <p align="center">Projeto de treinamento para HTML e CSS</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
       <p align="center">
-        <a href="https://github.com/sidijr-guima/Easy-Shopping.git">💻 Repositório</a> | 
-        <a href="https://sidijr-guima.github.io/Easy-Shopping/">🌐 Deploy (Ver Online)</a>
+        <a href="https://https://github.com/sidijr-guima/COMPRAS-FACEIS.git">💻 Repositório</a> | 
+        <a href="https://sidijr-guima.github.io/COMPRAS-FACEIS/">🌐 Deploy (Ver Online)</a>
        </p>
     </td>
   </tr>
