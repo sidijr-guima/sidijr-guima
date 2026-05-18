@@ -48,7 +48,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <h3 align="center">CRIADOR DE CÓDIGOS</h3>
       <p align="center">Este projeto visa criar códigos a partir de uma solicitação do usuário. Mostra o código e o preview do que foi solicitado.</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS</p>
@@ -57,7 +57,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
         <a href="https://sidijr-guima.github.io/CRIADOR-DE-CODIGOS---FINAL/">🌐 Deploy (Ver Online)</a>
       </p>
     </td>
-    <td width="33%">
+    <td width="50%">
       <h3 align="center">Wide coverage</h3>
       <p align="center">Projeto de treinamento para HTML e CSS</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
@@ -66,7 +66,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para consolidar meu ap
         <a href="https://sidijr-guima.github.io/Wide-coverage/">🌐 Deploy (Ver Online)</a>
        </p>
     </td>
-    <td width="33%">
+    <td height="50%">
       <h3 align="center">COMPRAS FÁCEIS</h3>
       <p align="center">Projeto de treinamento para HTML e CSS</p>
       <p align="center"><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
